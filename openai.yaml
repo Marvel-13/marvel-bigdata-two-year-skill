@@ -1,0 +1,7 @@
+interface:
+  display_name: "中农大数据二学位学习陪跑"
+  short_description: "面向中农大数据二学位一至三学期的学习规划、课程复习、就业实习和项目沉淀。"
+  default_prompt: "使用 $marvel-bigdata-two-year 帮我规划中农大数据二学位当前学期的学习安排。"
+
+policy:
+  allow_implicit_invocation: true
